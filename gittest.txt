@@ -3,5 +3,9 @@ Hello git bash this is my first file.
 Hello Git
 This line was added from GitHub
 Feature change
+<<<<<<< HEAD
 Hello this is my 2nd file for merging.
 
+=======
+Added 3rd line
+>>>>>>> f40373cdad4dd7c40b6877ee1b341fed6c47e2ec
