@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello this is my 2nd file for merging.
 
+=======
+this file created in GitHub
+>>>>>>> a0d7d713b8fb2963b270614e407af3f02d091621
