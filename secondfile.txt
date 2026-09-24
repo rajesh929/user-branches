@@ -3,4 +3,8 @@ Hello this is my 2nd file for merging.
 
 =======
 this file created in GitHub
+<<<<<<< HEAD
 >>>>>>> a0d7d713b8fb2963b270614e407af3f02d091621
+=======
+new line
+>>>>>>> 6325a02423399106287c51c61b9f04ed2177b794
