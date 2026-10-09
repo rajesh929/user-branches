@@ -1,0 +1,4 @@
+name: Build file
+
+steps:
+  - echo "This is a build file"
